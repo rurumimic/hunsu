@@ -4,6 +4,7 @@
 
 - VSCode Extension: [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - Neovim Plugin: [copilot.vim](https://github.com/github/copilot.vim)
+- IntelliJ Plugin: [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
 
 ### SpaceVim
 

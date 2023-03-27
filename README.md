@@ -11,9 +11,8 @@ written by GitHub Copilot and me.
 
 ### with Copilot
 
-1. [Setup Copilot](docs/setup.md): Vscode, Neovim, SpaceVim
-   - [SpaceVim](docs/setup.md#spacevim)
-     - [Add Copilot Plugin](docs/setup.md#add-copilot-plugin)
+1. [Setup Copilot](docs/setup.md): Vscode, Neovim, SpaceVim, IntelliJ
+   - [SpaceVim](docs/setup.md#spacevim): [Add Copilot Plugin](docs/setup.md#add-copilot-plugin)
 
 ## Examples
 
