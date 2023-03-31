@@ -53,7 +53,7 @@ written by GitHub Copilot and me.
 
 ### Whisper
 
-- [Whisper](https://whisper.ai/)
+- [Whisper](https://github.com/openai/whisper)
 
 ---
 
