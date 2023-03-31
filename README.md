@@ -43,9 +43,9 @@ written by GitHub Copilot and me.
 
 ---
 
-## OpenAPI
+## OpenAI
 
-- [OpenAPI](https://openai.com/)
+- [OpenAI](https://openai.com/)
 - [platform](https://platform.openai.com)
 - [docs](https://platform.openai.com/docs)   
 
