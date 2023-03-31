@@ -36,11 +36,6 @@ written by GitHub Copilot and me.
 1. [Setup Copilot](docs/setup.md): Vscode, Neovim, SpaceVim, IntelliJ
    - [SpaceVim](docs/setup.md#spacevim): [Add Copilot Plugin](docs/setup.md#add-copilot-plugin)
 
-## Examples
-
-- [Hello World](src/rust/helloworld/README.md) with Copilot
-  - [helloworld/src/main.rs](src/rust/helloworld/src/main.rs)
-
 ---
 
 ## OpenAI
@@ -59,3 +54,10 @@ written by GitHub Copilot and me.
 ### Whisper
 
 - [Whisper](https://whisper.ai/)
+
+---
+
+## Codes
+
+- [Hello World](src/rust/helloworld/README.md) with Copilot
+  - [helloworld/src/main.rs](src/rust/helloworld/src/main.rs)
