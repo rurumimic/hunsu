@@ -60,3 +60,5 @@ written by GitHub Copilot and me.
 
 - [Hello World](src/rust/helloworld/README.md) with Copilot
   - [helloworld/src/main.rs](src/rust/helloworld/src/main.rs)
+- OpenAI
+  - [Hello](src/openai/go/hello/README.md)
