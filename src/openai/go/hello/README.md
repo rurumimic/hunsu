@@ -36,5 +36,18 @@ go run .
 ```
 
 ```bash
-I'm an AI language model, so I don't have feelings, but I'm functioning properly and ready to assist you. How may I help you today?
+Welcome to the OpenAI Chatbot!
+Type 'exit' to quit.
+
+You: 안녕?
+Bot: 안녕하세요! 저는 인공지능 어시스턴트입니다. 무엇을 도와드릴까요? :)
+
+You: 100만이랑 10Billion 중에 더 큰 숫자가 뭐야?
+Bot: 10 Billion이 더 큰 숫자입니다. 
+
+100만은 1,000,000이지만, 
+10 Billion은 10,000,000,000입니다. 
+즉, 10 Billion은 100만보다 10,000배나 큰 숫자입니다.
+
+You: exit
 ```
