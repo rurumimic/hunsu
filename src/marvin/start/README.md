@@ -49,7 +49,7 @@ MARVIN_OPENAI_API_KEY=''
 ### List of N Fruits
 
 - List of N Fruits: [fruits.py](fruits.py)
-- history: [instructions](instructions/fruits.md)
+- prompt: [history](prompt/fruits.md)
 
 ```bash
 python fruits.py
@@ -62,7 +62,7 @@ python fruits.py
 ### Classify Tweets
 
 - Classify Tweets: [tweets.py](tweets.py)
-- history: [instructions](instructions/tweets.md)
+- prompt: [history](prompt/tweets.md)
 
 ```bash
 python tweets.py

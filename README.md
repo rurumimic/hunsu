@@ -67,7 +67,7 @@ written by GitHub Copilot and me.
 
 ---
 
-## More AI
+## And also
 
 ### Marvin
 
@@ -84,5 +84,5 @@ written by GitHub Copilot and me.
   - [Hello](src/openai/go/hello/README.md)
 - Marvin
   - [start](src/marvin/start/README.md)
-    - List of N Fruits: [fruits.py](src/marvin/start/fruits.py), [instructions](src/marvin/start/instructions/fruits.md)
-    - Classify Tweets: [tweets.py](src/marvin/start/tweets.py), [instructions](src/marvin/start/instructions/tweets.md)
+    - List of N Fruits: [fruits.py](src/marvin/start/fruits.py), [prompt](src/marvin/start/prompt/fruits.md)
+    - Classify Tweets: [tweets.py](src/marvin/start/tweets.py), [prompt](src/marvin/start/prompt/tweets.md)
