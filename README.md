@@ -62,8 +62,9 @@ written by GitHub Copilot and me.
 
 ### JARVIS
 
-- JARVIS: [github](https://github.com/microsoft/JARVIS)
-  - Hugging GPT: [paper](https://arxiv.org/abs/2303.17580)
+- JARVIS
+  - [github](https://github.com/microsoft/JARVIS)
+  - [paper](https://arxiv.org/abs/2303.17580): Hugging GPT
 
 ---
 
@@ -71,8 +72,16 @@ written by GitHub Copilot and me.
 
 ### Marvin
 
-- [Marvin](https://www.askmarvin.ai/): [github](https://github.com/PrefectHQ/marvin): A batteries-included library for building AI-powered software
-- [install](https://www.askmarvin.ai/getting_started/installation/)
+- [Marvin](https://www.askmarvin.ai/)
+  - [github](https://github.com/PrefectHQ/marvin): A batteries-included library for building AI-powered software
+  - [install](https://www.askmarvin.ai/getting_started/installation/)
+
+### Bloomberg
+
+- BloombergGPT
+  - 50-billion parameter LLM tuned for finance
+  - [announcements](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
+  - [paper](https://arxiv.org/abs/2303.17564)
 
 ---
 
