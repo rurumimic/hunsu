@@ -42,6 +42,8 @@ written by GitHub Copilot and me.
 - [OpenAI](https://openai.com/)
   - [platform](https://platform.openai.com)
     - [docs](https://platform.openai.com/docs)
+- Code
+  - [cookbook](https://github.com/openai/openai-cookbook)
 
 ### ChatGPT
 
@@ -53,6 +55,15 @@ written by GitHub Copilot and me.
 ### Whisper
 
 - Whisper: [github](https://github.com/openai/whisper)
+
+---
+
+## Microsoft
+
+### JARVIS
+
+- JARVIS: [github](https://github.com/microsoft/JARVIS)
+  - Hugging GPT: [paper](https://arxiv.org/abs/2303.17580)
 
 ---
 
