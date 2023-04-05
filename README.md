@@ -73,5 +73,5 @@ written by GitHub Copilot and me.
   - [Hello](src/openai/go/hello/README.md)
 - Marvin
   - [start](src/marvin/start/README.md)
-    - List of N Fruits: [fruits.py](src/marvin/start/fruits.py)
-    - Classify Tweets: [tweets.py](src/marvin/start/tweets.py)
+    - List of N Fruits: [fruits.py](src/marvin/start/fruits.py), [instructions](src/marvin/start/instructions/fruits.md)
+    - Classify Tweets: [tweets.py](src/marvin/start/tweets.py), [instructions](src/marvin/start/instructions/tweets.md)

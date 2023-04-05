@@ -49,6 +49,7 @@ MARVIN_OPENAI_API_KEY=''
 ### List of N Fruits
 
 - List of N Fruits: [fruits.py](fruits.py)
+- history: [instructions](instructions/fruits.md)
 
 ```bash
 python fruits.py
@@ -61,6 +62,7 @@ python fruits.py
 ### Classify Tweets
 
 - Classify Tweets: [tweets.py](tweets.py)
+- history: [instructions](instructions/tweets.md)
 
 ```bash
 python tweets.py
