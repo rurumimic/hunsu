@@ -8,9 +8,9 @@ written by GitHub Copilot and me.
 
 ### 신진서
 
-- Shin Jinseo's [rating](https://www.goratings.org/en/players/1313.html)
-- 🗞️: ["AI is for reference only, I make my own moves"](https://www.hankyung.com/life/article/2022030167811)
-- 🗞️: ["AI stunts, heart pounding"](https://www.mk.co.kr/news/society/9775037)
+- Shin Jinseo's [Rating](https://www.goratings.org/en/players/1313.html)
+- 🗞️ ["AI is for reference only, I make my own moves"](https://www.hankyung.com/life/article/2022030167811)
+- 🗞️ ["AI stunts, heart pounding"](https://www.mk.co.kr/news/society/9775037)
 
 > Thanks to AI, my understanding deepens as I keep playing one style. It's relatively easy to predict against other players who study AI.
 
@@ -20,15 +20,15 @@ written by GitHub Copilot and me.
 
 ### AI
 
-- [KataGo](https://github.com/lightvector/KataGo): GTP engine and self-play learning in Go
-- [Leela Zero](https://github.com/leela-zero/leela-zero): Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
+- KataGo: [github](https://github.com/lightvector/KataGo): GTP engine and self-play learning in Go
+- Leela Zero: [github](https://github.com/leela-zero/leela-zero): Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 
 ---
 
 ## Copilot
 
-- GitHub [Copilot](https://copilot.github.com/) is a new AI-powered code completion tool that helps you write code faster and more efficiently.
-  - [documentation](https://docs.github.com/en/copilot)
+- [GitHub Copilot](https://copilot.github.com/) is a new AI-powered code completion tool that helps you write code faster and more efficiently.
+  - [docs](https://docs.github.com/en/copilot)
 
 ### with Copilot
 
@@ -40,8 +40,8 @@ written by GitHub Copilot and me.
 ## OpenAI
 
 - [OpenAI](https://openai.com/)
-- [platform](https://platform.openai.com)
-- [docs](https://platform.openai.com/docs)
+  - [platform](https://platform.openai.com)
+    - [docs](https://platform.openai.com/docs)
 
 ### ChatGPT
 
@@ -52,7 +52,16 @@ written by GitHub Copilot and me.
 
 ### Whisper
 
-- [Whisper](https://github.com/openai/whisper)
+- Whisper: [github](https://github.com/openai/whisper)
+
+---
+
+## More AI
+
+### Marvin
+
+- [Marvin](https://www.askmarvin.ai/): [github](https://github.com/PrefectHQ/marvin): A batteries-included library for building AI-powered software
+- [install](https://www.askmarvin.ai/getting_started/installation/)
 
 ---
 
@@ -62,3 +71,7 @@ written by GitHub Copilot and me.
   - [helloworld/src/main.rs](src/rust/helloworld/src/main.rs)
 - OpenAI
   - [Hello](src/openai/go/hello/README.md)
+- Marvin
+  - [start](src/marvin/start/README.md)
+    - List of N Fruits: [fruits.py](src/marvin/start/fruits.py)
+    - Classify Tweets: [tweets.py](src/marvin/start/tweets.py)
