@@ -77,6 +77,6 @@ Do not explain the type signature or give guidance on parsing
 
 ### Response 2
 
-```txt
+```js
 [True, True, True]
 ```
