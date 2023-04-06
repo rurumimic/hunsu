@@ -83,6 +83,11 @@ written by GitHub Copilot and me.
   - [announcements](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
   - [paper](https://arxiv.org/abs/2303.17564)
 
+### LMQL
+
+- [LMQL](https://lmql.ai/)
+  - [github](https://github.com/eth-sri/lmql)
+
 ---
 
 ## Code
@@ -92,6 +97,9 @@ written by GitHub Copilot and me.
 - OpenAI
   - [Hello](src/openai/go/hello/README.md)
 - Marvin
-  - [start](src/marvin/start/README.md)
+  - [start](src/marvin/start/README.md): install, start
     - List of N Fruits: [fruits.py](src/marvin/start/fruits.py), [prompt](src/marvin/start/prompt/fruits.md)
     - Classify Tweets: [tweets.py](src/marvin/start/tweets.py), [prompt](src/marvin/start/prompt/tweets.md)
+- LMQL
+  - [hello](src/lmql/start/README.md): install, start
+    - Hello: [hello.py](src/lmql/start/hello.py)
