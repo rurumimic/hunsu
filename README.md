@@ -42,6 +42,8 @@ written by GitHub Copilot and me.
 - [OpenAI](https://openai.com/)
   - [platform](https://platform.openai.com)
     - [docs](https://platform.openai.com/docs)
+- Code
+  - [cookbook](https://github.com/openai/openai-cookbook)
 
 ### ChatGPT
 
@@ -56,12 +58,35 @@ written by GitHub Copilot and me.
 
 ---
 
-## More AI
+## Microsoft
+
+### JARVIS
+
+- JARVIS
+  - [github](https://github.com/microsoft/JARVIS)
+  - [paper](https://arxiv.org/abs/2303.17580): Hugging GPT
+
+---
+
+## And also
 
 ### Marvin
 
-- [Marvin](https://www.askmarvin.ai/): [github](https://github.com/PrefectHQ/marvin): A batteries-included library for building AI-powered software
-- [install](https://www.askmarvin.ai/getting_started/installation/)
+- [Marvin](https://www.askmarvin.ai/)
+  - [github](https://github.com/PrefectHQ/marvin): A batteries-included library for building AI-powered software
+  - [install](https://www.askmarvin.ai/getting_started/installation/)
+
+### Bloomberg
+
+- BloombergGPT
+  - 50-billion parameter LLM tuned for finance
+  - [announcements](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
+  - [paper](https://arxiv.org/abs/2303.17564)
+
+### LMQL
+
+- [LMQL](https://lmql.ai/)
+  - [github](https://github.com/eth-sri/lmql)
 
 ---
 
@@ -72,6 +97,9 @@ written by GitHub Copilot and me.
 - OpenAI
   - [Hello](src/openai/go/hello/README.md)
 - Marvin
-  - [start](src/marvin/start/README.md)
-    - List of N Fruits: [fruits.py](src/marvin/start/fruits.py), [instructions](src/marvin/start/instructions/fruits.md)
-    - Classify Tweets: [tweets.py](src/marvin/start/tweets.py), [instructions](src/marvin/start/instructions/tweets.md)
+  - [start](src/marvin/start/README.md): install, start
+    - List of N Fruits: [fruits.py](src/marvin/start/fruits.py), [prompt](src/marvin/start/prompt/fruits.md)
+    - Classify Tweets: [tweets.py](src/marvin/start/tweets.py), [prompt](src/marvin/start/prompt/tweets.md)
+- LMQL
+  - [hello](src/lmql/start/README.md): install, start
+    - Hello: [hello.py](src/lmql/start/hello.py)
