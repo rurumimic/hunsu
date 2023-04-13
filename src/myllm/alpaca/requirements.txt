@@ -8,3 +8,5 @@ sentencepiece
 tokenizers
 wandb
 protobuf==3.20.3
+py-cpuinfo
+pybind11

@@ -1,4 +1,8 @@
+alpaca.cpp
+Alpaca-native-4bit-ggml
+alpaca-lora-7b
 KoAlpaca
+fastLLaMa
 
 # Created by https://www.toptal.com/developers/gitignore/api/vim,emacs,linux,macos,windows,visualstudiocode,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=vim,emacs,linux,macos,windows,visualstudiocode,python

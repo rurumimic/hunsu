@@ -104,4 +104,4 @@ written by GitHub Copilot and me.
   - [hello](src/lmql/start/README.md): install, start
     - Hello: [hello.py](src/lmql/start/hello.py)
 - My LLM
-  - [start](src/myllm/start/README.md)
+  - [alpaca](src/myllm/alpaca/README.md)
