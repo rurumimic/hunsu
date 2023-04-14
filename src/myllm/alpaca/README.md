@@ -48,25 +48,12 @@ Updated Git hooks.
 Git LFS initialized.
 ```
 
-### Download a repo
-
-- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
-- [Sosaka/Alpaca-native-4bit-ggml](https://huggingface.co/Sosaka/Alpaca-native-4bit-ggml)
-- [tloen/alpaca-lora-7b](https://huggingface.co/tloen/alpaca-lora-7b)
-- [beomi/KoAlpaca](https://huggingface.co/beomi/KoAlpaca)
-- [PotatoSpudowski/fastLLaMa](https://github.com/PotatoSpudowski/fastLLaMa)
-
-```bash
-git clone https://github.com/antimatter15/alpaca.cpp.git
-git clone https://huggingface.co/Sosaka/Alpaca-native-4bit-ggml
-git clone https://github.com/PotatoSpudowski/fastLLaMa
-```
-
 ---
 
 ## Code
 
-- [hello.ipynb](hello.ipynb)
+- [alpaca_fastllama.ipynb](alpaca_fastllama.ipynb)
+- [koalpaca.ipynb](koalpaca.ipynb)
 
 ### Start Jupyter
 
