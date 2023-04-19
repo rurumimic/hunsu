@@ -81,7 +81,7 @@ written by GitHub Copilot and me.
 - BloombergGPT
   - 50-billion parameter LLM tuned for finance
   - [announcements](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
-  - [paper](https://arxiv.org/abs/2303.17564)
+  - [paper](https://arxiv.org/abs/2303.17564): [summary](papers/bloomberg/bloomberggpt.md)
 
 ### LMQL
 
