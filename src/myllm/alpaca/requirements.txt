@@ -10,3 +10,10 @@ wandb
 protobuf==3.20.3
 py-cpuinfo
 pybind11
+accelerate
+appdirs
+loralib
+bitsandbytes
+datasets
+git+https://github.com/huggingface/peft.git
+gradio

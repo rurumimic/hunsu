@@ -1,5 +1,6 @@
 alpaca.cpp
 Alpaca-native-4bit-ggml
+alpaca-lora
 alpaca-lora-7b
 KoAlpaca
 fastLLaMa

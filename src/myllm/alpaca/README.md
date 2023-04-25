@@ -52,6 +52,7 @@ Git LFS initialized.
 
 ## Code
 
+- [alpaca_lora.ipynb](alpaca_lora.ipynb)
 - [alpaca_fastllama.ipynb](alpaca_fastllama.ipynb)
 - [koalpaca.ipynb](koalpaca.ipynb)
 
