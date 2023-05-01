@@ -23,6 +23,14 @@ written by GitHub Copilot and me.
 - KataGo: [github](https://github.com/lightvector/KataGo): GTP engine and self-play learning in Go
 - Leela Zero: [github](https://github.com/leela-zero/leela-zero): Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 
+### GUI
+
+- yzyray/lizzieyzy: [github](https://github.com/yzyray/lizzieyzy), [english](https://github.com/yzyray/lizzieyzy/blob/main/README_EN.md), [manual.pdf](https://github.com/yzyray/lizzieyzy/blob/main/readme_en.pdf), [releases](https://github.com/yzyray/lizzieyzy/releases)
+
+### Play a game
+
+1. [Play a game](docs/baduk.md)
+
 ---
 
 ## Copilot
