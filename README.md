@@ -6,6 +6,10 @@ written by GitHub Copilot and me.
 
 ## Baduk
 
+![77](/images/77.png)
+
+- Game 4: Lee Sedol vs Alphago
+
 ### 신진서
 
 - Shin Jinseo's [Rating](https://www.goratings.org/en/players/1313.html)
