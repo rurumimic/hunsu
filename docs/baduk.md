@@ -20,9 +20,22 @@
 
 - JDK 17: [Install](https://github.com/rurumimic/supply/blob/master/languages/java.md)
 
-### Download KataGo
+### Download or Build KataGo
 
 - KataGo: [releases](https://github.com/lightvector/KataGo/releases)
+  - katago
+  - neural net model file: `.bin.gz`
+
+```bash
+sudo port install cmake
+
+git clone https://github.com/lightvector/KataGo.git
+cd KataGo
+
+cd cpp
+cmake . -DUSE_BACKEND=OPENCL
+make
+```
 
 ### Download or Build Leela Zero
 
@@ -55,6 +68,15 @@ cmake --build .
 java -jar lizzie.jar
 ```
 
+### Engines
+
+- Settings → Engines
+
+```bash
+./KataGo/cpp/katago gtp -model ./b18c384nbt-uec.bin.gz -config ./KataGo/cpp/configs/gtp_example.cfg
+./leela-zero/build/leelaz --gtp --lagbuffer 0 --weights lznetwork.gz
+```
+
 ---
 
 ## Lee Sedol vs Alphago
@@ -66,3 +88,7 @@ java -jar lizzie.jar
 ![77](/images/77.png)
 ![78](/images/78.png)
 ![win](/images/win.png)
+
+#### KataGo
+
+![78 katago](../images/78-katago.png)
