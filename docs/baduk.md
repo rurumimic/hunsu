@@ -27,6 +27,10 @@
   - neural net model file: `.bin.gz`
 
 ```bash
+brew install katago
+```
+
+```bash
 sudo port install cmake
 # or
 brew install cmake
@@ -42,6 +46,10 @@ make
 ### Download or Build Leela Zero
 
 - Leela Zero: [releases](https://github.com/leela-zero/leela-zero/releases)
+
+```bash
+brew install leela-zero
+```
 
 #### Build Leela Zero on macOS
 
