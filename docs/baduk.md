@@ -28,6 +28,8 @@
 
 ```bash
 sudo port install cmake
+# or
+brew install cmake
 
 git clone https://github.com/lightvector/KataGo.git
 cd KataGo
@@ -45,6 +47,8 @@ make
 
 ```bash
 sudo port install boost cmake zlib
+# or
+brew install boost cmake zlib
 
 git clone https://github.com/leela-zero/leela-zero
 cd leela-zero
