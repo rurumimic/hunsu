@@ -6,7 +6,7 @@ written by GitHub Copilot and me.
 
 ## Baduk
 
-![77](/images/77.png)
+![78](/images/78-sabaki-leelazero.png)
 
 - Game 4: Lee Sedol vs Alphago
 
@@ -30,7 +30,8 @@ written by GitHub Copilot and me.
 ### GUI
 
 - Lizzie: [github](https://github.com/featurecat/lizzie), [releases](https://github.com/featurecat/lizzie/releases)
-- yzyray/lizzieyzy: [github](https://github.com/yzyray/lizzieyzy), [english](https://github.com/yzyray/lizzieyzy/blob/main/README_EN.md), [manual.pdf](https://github.com/yzyray/lizzieyzy/blob/main/readme_en.pdf), [releases](https://github.com/yzyray/lizzieyzy/releases)
+  - yzyray/lizzieyzy: [github](https://github.com/yzyray/lizzieyzy), [english](https://github.com/yzyray/lizzieyzy/blob/main/README_EN.md), [manual.pdf](https://github.com/yzyray/lizzieyzy/blob/main/readme_en.pdf), [releases](https://github.com/yzyray/lizzieyzy/releases)
+- Sabaki: [github](https://github.com/SabakiHQ/Sabaki)
 
 ### Play a game
 

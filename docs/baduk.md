@@ -6,11 +6,13 @@
 
 - KataGo: [github](https://github.com/lightvector/KataGo): GTP engine and self-play learning in Go
 - Leela Zero: [github](https://github.com/leela-zero/leela-zero): Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
+  - [networks](https://zero.sjeng.org/)
 
 ### GUI
 
 - Lizzie: [github](https://github.com/featurecat/lizzie), [releases](https://github.com/featurecat/lizzie/releases)
-- yzyray/lizzieyzy: [github](https://github.com/yzyray/lizzieyzy), [english](https://github.com/yzyray/lizzieyzy/blob/main/README_EN.md), [manual.pdf](https://github.com/yzyray/lizzieyzy/blob/main/readme_en.pdf), [releases](https://github.com/yzyray/lizzieyzy/releases)
+  - yzyray/lizzieyzy: [github](https://github.com/yzyray/lizzieyzy), [english](https://github.com/yzyray/lizzieyzy/blob/main/README_EN.md), [manual.pdf](https://github.com/yzyray/lizzieyzy/blob/main/readme_en.pdf), [releases](https://github.com/yzyray/lizzieyzy/releases)
+- Sabaki: [github](https://github.com/SabakiHQ/Sabaki), [releases](https://github.com/SabakiHQ/Sabaki/releases)
 
 ---
 
@@ -72,6 +74,14 @@ cmake --build .
 
 - Lizzie: [releases](https://github.com/featurecat/lizzie/releases)
 
+### Download Sabaki
+
+- Sabaki: [releases](https://github.com/SabakiHQ/Sabaki/releases)
+
+### Download LeelaZero Network Hash
+
+- [networks](https://zero.sjeng.org/)
+
 ---
 
 ## Run Lizzie
@@ -97,10 +107,16 @@ java -jar lizzie.jar
 
 - Game 4: [20160313-LeeSedol-Alphago.sgf](/games/20160313-LeeSedol-Alphago.sgf)
 
-![77](/images/77.png)
-![78](/images/78.png)
-![win](/images/win.png)
+#### Leela Zero with Lizzie
 
-#### KataGo
+![77](/images/77-lizzie-leelazero.png)
+![78](/images/78-lizzie-leelazero.png)
+![win](/images/78-lizzie-katago.png)
 
-![78 katago](../images/78-katago.png)
+#### KataGo with Lizzie
+
+![78 katago](/images/78-lizzie-katago.png)
+
+#### Leela Zero with Sabaki
+
+![77](/images/77-sabaki-leelazero.png)
