@@ -6,7 +6,7 @@ written by GitHub Copilot and me.
 
 ## Baduk
 
-![78](/images/78-sabaki-leelazero.png)
+![78](/images/78-sabaki-leelazero.small.png)
 
 - Game 4: Lee Sedol vs Alphago
 
