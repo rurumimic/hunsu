@@ -102,6 +102,11 @@ written by GitHub Copilot and me.
 - [LMQL](https://lmql.ai/)
   - [github](https://github.com/eth-sri/lmql)
 
+### PandasAI
+
+- PandasAI
+  - [github](https://github.com/gventuri/pandas-ai)
+
 ---
 
 ## Code
@@ -119,3 +124,5 @@ written by GitHub Copilot and me.
     - Hello: [hello.py](src/lmql/start/hello.py)
 - My LLM
   - [alpaca](src/myllm/alpaca/README.md)
+- PandasAI
+  - [happiness](src/pandasai/happiness/README.md)
