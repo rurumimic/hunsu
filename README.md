@@ -82,6 +82,22 @@ written by GitHub Copilot and me.
 
 ---
 
+## NVIDIA
+
+- [developer](https://developer.nvidia.com/)
+- [github](https://github.com/NVIDIA)
+
+### Triton Inference Server
+
+- [TensorRT](https://developer.nvidia.com/tensorrt)
+  - [docs](https://docs.nvidia.com/deeplearning/tensorrt/)
+  - [github](https://github.com/NVIDIA/TensorRT)
+- [Triton Inference Server](https://developer.nvidia.com/triton-inference-server)
+  - [docs](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html)
+  - [github](https://github.com/triton-inference-server)
+
+---
+
 ## And also
 
 ### Marvin
@@ -107,6 +123,18 @@ written by GitHub Copilot and me.
 - PandasAI
   - [github](https://github.com/gventuri/pandas-ai)
 
+### HuggingFace
+
+- [github](https://github.com/huggingface)
+  - [text embeddings inference](https://github.com/huggingface/text-embeddings-inference)
+
+### ONNX
+
+- [ONNX](https://onnx.ai/)
+  - [github](https://github.com/onnx)
+    - [onnx](https://github.com/onnx/onnx)
+    - [tutorials](https://github.com/onnx/tutorials)
+
 ---
 
 ## Code
@@ -126,3 +154,4 @@ written by GitHub Copilot and me.
   - [alpaca](src/myllm/alpaca/README.md)
 - PandasAI
   - [happiness](src/pandasai/happiness/README.md)
+
