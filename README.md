@@ -154,4 +154,6 @@ written by GitHub Copilot and me.
   - [alpaca](src/myllm/alpaca/README.md)
 - PandasAI
   - [happiness](src/pandasai/happiness/README.md)
+- HuggingFace
+  - [text embeddings inference](src/huggingface/text-embeddings-inference/README.md)
 
