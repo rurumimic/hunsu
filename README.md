@@ -127,6 +127,7 @@ written by GitHub Copilot and me.
 
 - [github](https://github.com/huggingface)
   - [text embeddings inference](https://github.com/huggingface/text-embeddings-inference)
+  - [candle](https://github.com/huggingface/candle)
 
 ### ONNX
 
